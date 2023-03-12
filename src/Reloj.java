@@ -13,6 +13,10 @@ public class Reloj {
   private static Timer timer;
   
   public static void main(String[] args) {
+    //iniciarReloj();
+  }
+
+  public static void iniciarReloj(){
     leerFecha();
     iniciarContador();
   }
@@ -46,7 +50,10 @@ public class Reloj {
     });
     timer.start();
 
-    //JOptionPane.showMessageDialog(null, "Presione OK para detener el programa");
+    JOptionPane.showMessageDialog(null, "Presione OK para detener el programa");
+
+
+    
     timer.stop();
     guardarFecha(fechaActual);
   }
