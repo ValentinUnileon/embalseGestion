@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40"
+xmlns:u1="urn:schemas-microsoft-com:office:excel">
+ <Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+ <Alignment ss:Vertical="Bottom"/>
+ <Borders/>
+ <Font/>
+ <Interior/>
+ <NumberFormat/>
+ <Protection/>
+ </Style>
+ <Style ss:ID="BoldColumn">
+ <Font x:Family="Swiss" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="StringLiteral">
+ <NumberFormat ss:Format="@"/>
+ </Style>
+ <Style ss:ID="Decimal">
+ <NumberFormat ss:Format="0.0000"/>
+ </Style>
+ <Style ss:ID="Integer">
+ <NumberFormat ss:Format="0"/>
+ </Style>
+ <Style ss:ID="DateLiteral">
+ <NumberFormat ss:Format="mm/dd/yyyy;@"/>
+ </Style>
+ <Style ss:ID="Negrita"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Font x:Family="Swiss" ss:Size="14" ss:Bold="1"/></Style>
+</Styles>
+<Worksheet ss:Name="Hoja 1">
+<Table>
+<Row ss:Height="18">
+<Cell ss:MergeAcross="9" ss:StyleID="Negrita"><Data ss:Type="String">Datos de reserva diaria en hm3 en embalses</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Estación]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Año]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Día]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Oct]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Nov]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Dic]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Ene]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Feb]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Mar]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Abr]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[May]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Jun]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Jul]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Ago]]></Data></Cell>
+<Cell ss:StyleID="BoldColumn"><Data ss:Type="String"><![CDATA[Sep]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[01]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,03]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,43]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,86]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,78]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,05]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,97]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,38]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,21]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,31]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[02]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,59]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,16]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,58]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,01]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,84]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[03]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,71]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[97,62]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,67]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,11]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,46]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,75]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,47]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[04]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,39]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,49]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,16]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,98]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,93]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,56]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,95]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,26]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,66]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,71]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[05]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,46]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,38]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,41]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,40]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,62]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,49]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,44]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,87]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,77]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[06]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[95,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,26]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,02]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,86]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,73]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,08]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,93]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,08]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,55]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,74]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,34]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,02]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,66]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,62]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,38]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[08]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,73]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,06]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,95]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,10]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[09]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,99]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,22]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,77]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,34]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,57]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,22]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,34]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[10]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,59]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,47]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,32]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,47]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,41]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,37]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,71]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,22]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,70]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,16]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,73]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[11]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,83]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,58]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,66]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,40]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,88]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[100,80]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,56]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[12]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,98]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,69]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,87]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,38]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,00]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,73]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,06]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,14]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,85]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[95,93]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,75]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,71]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,91]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,77]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,56]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,87]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,83]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,28]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[14]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[94,27]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,80]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,14]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,62]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,26]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,73]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,97]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,54]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[15]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[90,67]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,78]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,52]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,94]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,54]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,39]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,70]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,33]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,54]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,40]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[16]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[93,90]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,56]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[93,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,75]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,00]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,73]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,46]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,23]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,10]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,24]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[17]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[100,39]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,67]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[92,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,84]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,44]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,01]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,88]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,92]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,48]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,10]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,47]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[18]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,59]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,49]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[93,37]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,72]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,99]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,57]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,37]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,24]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,95]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[96,39]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,20]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,90]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,32]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,84]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,41]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,61]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,73]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[20]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,98]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,58]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,76]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,98]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,44]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,63]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[21]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,57]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,17]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,76]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,86]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,88]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,84]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,00]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,66]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,79]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[22]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,23]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,38]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,04]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,02]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,38]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,68]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,54]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,41]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,63]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[23]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,81]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,68]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,90]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,44]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,08]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,64]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,03]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,36]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,50]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[24]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[98,49]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,82]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,66]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,16]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,92]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,71]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,03]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,97]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,87]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[25]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,94]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,93]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,82]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,36]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,96]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,86]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,34]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,51]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,70]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,02]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[26]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,67]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,84]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,16]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,10]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,65]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,65]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,67]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,42]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,40]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,60]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[27]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,95]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,19]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,66]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,13]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,97]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,92]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,14]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,76]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,40]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[28]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[102,95]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,80]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,49]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,01]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,61]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,86]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,23]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,39]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,56]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,06]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[29]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[99,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,05]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,70]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,07]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[110,52]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[112,15]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,35]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,63]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,13]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[30]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[97,53]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,79]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[105,37]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[113,83]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[107,50]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[109,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,56]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,60]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,75]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,94]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[101,99]]></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2005]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[2017-2018]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[103,31]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[104,73]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,59]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[111,89]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,85]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[106,26]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[108,72]]></Data></Cell>
+<Cell ss:StyleID="StringLiteral"><Data ss:Type="String"><![CDATA[-]]></Data></Cell>
+</Row>
+</Table>
+ </Worksheet>
+</Workbook>
