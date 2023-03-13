@@ -34,7 +34,7 @@ public class controlEmbalses {
             System.out.println("Introduce un comando");
             Scanner entradaEscaner = new Scanner (System.in);
             String entradaTeclado = entradaEscaner.nextLine ();
-            
+            //s
             System.out.println("Introd"+ entradaTeclado);
 
             switch(entradaTeclado){
