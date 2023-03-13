@@ -13,7 +13,7 @@ public class Reloj {
   private static Timer timer;
   
   public static void main(String[] args) {
-    //iniciarReloj();
+    iniciarReloj();
   }
 
   public static void iniciarReloj(){
