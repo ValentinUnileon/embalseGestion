@@ -77,12 +77,15 @@ public class controlEmbalses {
         //primero calculamos gastoAgua
         // 414000 m3 por hora x 8 horas
 
+        for(int i=0; i< 8760/8; i++){
+
+            si capacidadAldea > 0.91*capMax y  
 
 
-        
+
+        }
 
 
-    }
 
     
 }
