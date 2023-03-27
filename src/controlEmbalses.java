@@ -79,7 +79,43 @@ public class controlEmbalses {
 
         for(int i=0; i< 8760/8; i++){
 
-            si capacidadAldea > 0.91*capMax y  
+            /*------------------------------------------------- 
+
+            if(){  si capacidadAldea > 0.98*capMax y  ** ------------->abrir
+               continue
+
+            }
+
+
+            if(){
+
+            }
+
+            if(){ ** if
+                
+            }
+
+
+
+            //toDo
+               datos de consumo de energia en españa
+               pillar datos csv
+               
+
+
+
+
+
+
+            se recalculan los parametros del embalse para la siguiente iteracion
+
+            **Para simular la entrada de agua en el embalse se repartira al azar la cantidad de agua que cae cada dia
+            al embalse durante un mes.---> lista de 30ints para calcular cuanto llueve cada dia del mes, dada la precipitacion total del mes (puede ser cero)
+
+            ------------------------------------------------- */
+
+            
+
 
 
 
